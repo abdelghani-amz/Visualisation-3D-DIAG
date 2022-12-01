@@ -1,4 +1,4 @@
-# vuetify-test
+# Visualisation-3D-DIAG
 
 ## Project setup
 ```
@@ -17,4 +17,4 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# Visualisation-3D-DIAG
+
